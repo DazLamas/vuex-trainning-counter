@@ -1,5 +1,7 @@
 # vue-counter
 
+Vue simple counter developed for learning Vue Store with Vuex. Check out at: https://dazlamas.github.io/vuex-trainning-counter
+
 ## Project setup
 ```
 npm install
